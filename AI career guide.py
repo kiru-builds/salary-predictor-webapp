@@ -555,3 +555,4 @@ st.markdown("""
     B.Tech AI & Data Science |
     🚀 Helping students navigate their AI career worldwide
 </div>""", unsafe_allow_html=True)
+streamlit run app.py
